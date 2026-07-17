@@ -1,38 +1,72 @@
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 # 🥕 Fruits & Vegetables Website
 
-A modern and responsive landing page for a fruits and vegetables store, built with HTML, CSS, and JavaScript.
+<p align="center">
+  <img src="assets/screenshot1.png" alt="Project Preview" width="100%">
+</p>
 
-## 🚀 Features
+<p align="center">
+  A modern, responsive, and visually appealing landing page for a fresh fruits and vegetables store.
+</p>
 
-- Modern and clean UI
-- Responsive design for mobile devices
-- Optimized for large desktop screens
-- Simple and user-friendly layout
 
-## 🛠️ Built With
+<p align="center">
+  <a href="https://korosh-pirfalak.github.io/fruits-vegetables-website">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-success?style=for-the-badge">
+  </a>
+</p>
 
-- HTML
-- CSS
-- JavaScript
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
+---
+
+## ✨ Features
+
+- 🎨 Modern & Clean UI
+- 📱 Fully Responsive (Mobile)
+- 💻 Optimized for Desktop
+- ⚡ Smooth Scrolling
+- 🚀 Lightweight & Fast
+- 🧩 Clean Code Structure
+
+---
 
 ## 📱 Responsive
 
-- ✅ Mobile
-- ✅ Large Desktop
-- ❌ Tablet (Coming Soon)
+| Device | Status |
+| :------ | :----: |
+| 📱 Mobile | ✅ |
+| 🖥️ Large Desktop | ✅ |
+| 💻 Desktop | 🚧 Coming Soon |
+| 📟 Tablet | 🚧 Coming Soon |
 
-## 📸 Screenshot
+---
 
-![Homepage Screenshot](assets/screenshot1.png)
+## 📂 Project Structure
 
-## 🌐 Live Demo
+```text
+📦 fruits-vegetables-website
+├── assets/
+├── icon/
+├── img/
+├── js/
+├── style/
+├── README.md
+├── favicon.ico
+└── index.html
+```
 
-Coming Soon...
+---
 
 ## 👨‍💻 Author
 
-Created by **Korosh Pirfalak**
+**Korosh Pirfalak**
+
+⭐ If you like this project, consider giving it a star!
