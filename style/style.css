@@ -27,7 +27,7 @@
 }
 .IntroductionSection {
   background-color: #ffc107;
-  background-image: url(/img/fruits\ and\ vegetables.png);
+  background-image: url(../img/fruits\ and\ vegetables.png);
   background-repeat: no-repeat;
   background-position: right bottom;
   background-size: 35rem;
@@ -566,10 +566,10 @@ html{
 
 /* background */
 .backgroundImage {
-  background-image: url(/img/strawberrys\ background.png);
+  background-image: url(../img/strawberrys\ background.png);
 }
 .backgroundImage2 {
-  background-image: url(/img/oranges\ background.png);
+  background-image: url(../img/oranges\ background.png);
 }
 .backgroundRepeat {
   background-repeat: no-repeat;
