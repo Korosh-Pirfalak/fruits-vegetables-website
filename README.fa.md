@@ -16,13 +16,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/مجوز-MIT-green?style=flat-square">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square">
 </p>
 
 <p align="center">
   <a href="https://korosh-pirfalak.github.io/fruits-vegetables-website">
-    <img src="https://img.shields.io/badge/🌐_مشاهده_دمو-ورود-success?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-success?style=for-the-badge">
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
 
 ---
